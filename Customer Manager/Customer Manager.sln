@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Customer Manager", "Customer Manager.pyproj", "{0AB37E4F-84EF-4712-8F4E-DC4D84344BD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB37E4F-84EF-4712-8F4E-DC4D84344BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB37E4F-84EF-4712-8F4E-DC4D84344BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40CA0B74-7AA1-4971-9FF1-BB9F34EEFFCC}
+	EndGlobalSection
+EndGlobal
